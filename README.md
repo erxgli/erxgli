@@ -12,7 +12,7 @@
 🎓 Currently, I'm pursuing a specialization in Artificial Intelligence & Data Science to hone my skills in artificial intelligence and data science.
 
 🌐 Connect with Me
-📫 Feel free to reach out for collaborations, share ideas, or simply chat about technology! You can find me on LinkedIn.
+📫 Feel free to reach out for collaborations, share ideas, or simply chat about technology! You can find me on LinkedIn [https://www.linkedin.com/in/victorblancomurillo/].
 
 ## 🚀 Let's Advance AI Together!
 
